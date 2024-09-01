@@ -46,7 +46,7 @@
 
 <hr>
 
-#### Nota important:
+#### Credits:
 This project made in Postman was based on the following course:
 - https://www.udemy.com/course/postman-the-complete-guide/
 
