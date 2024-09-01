@@ -17,26 +17,27 @@
 #### Features:
 <p style="text-align: justify;">The API <br>Simple Grocery Store API</br> has several endpoints for each service made available and through these endpoints, several tests were carried out in the Postmam tool following the API Documentation, which must always be made available together with its API.</p>
 <p style="text-align: justify;">The Endpoints along with all details of the API Documentation are made available as follows:</p>
-- Status
-- Products
-- - Get all products
-- - Get a product
-- Cart
-- - Get a cart
-- - Get cart items
-- - Create a new cart
-- - Add an item to cart
-- - Modify an item in the cart
-- - Replace an item in the cart
-- - Delete an item in the cart
-- Orders
-- - Get all orders
-- - Get a single order
-- - Create a new order
-- - Update an order
-- - Delete an order
-- API Authentication
-- - Register a new API client
+
+- **Status**
+- **Products**
+- - **Get all products**
+- - **Get a product**
+- **Cart**
+- - **Get a cart**
+- - **Get cart items**
+- - **Create a new cart**
+- - **Add an item to cart**
+- - **Modify an item in the cart**
+- - **Replace an item in the cart**
+- - **Delete an item in the cart**
+- **Orders**
+- - **Get all orders**
+- - **Get a single order**
+- - **Create a new order**
+- - **Update an order**
+- - **Delete an order**
+- **API Authentication**
+- - **Register a new API client**
 
 <hr>
 
